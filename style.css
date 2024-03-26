@@ -1,0 +1,89 @@
+
+     html {
+        font-size: 23px;
+     }
+
+     body {
+        background-color: #333;
+        color: whitesmoke;
+        
+     }
+     
+     a {
+        color: aliceblue
+     }
+
+     a:visited {
+        color: lightpink
+     }
+
+     a:hover, a:active {
+        color: lightskyblue
+     }
+
+     table, tr, th, td, caption {
+            border: 2px solid #eee;
+            font-family: 'Courier New', Courier, monospace;
+            border-collapse: collapse;
+            padding: 0.5rem;
+            color: white;
+     }
+
+     .hogsmeade {
+      color: red;
+     }
+
+     h1 {
+      margin: 3rem;
+      border: 2px solid black;
+      padding: 0.2em;
+      outline: 5px solid whitesmoke;
+      outline-offset: 0.25rem;
+      text-align: center;
+     }
+
+     h2 {
+      border: 2px outset whitesmoke; 
+      background-color: black;
+      padding: 0.4em;
+     }
+
+     h3 {
+      border: 2px ridge whitesmoke;
+      background-color: rgba(0, 0, 0, 0.021);
+      width: 30%;
+      padding: 0.5em;
+     }
+
+     input{
+      font-size: inherit;
+     }
+
+     dt {
+      font-weight: bold;
+     }
+
+     .fifty {
+      width: 50%;
+     }
+
+     .fiftyfive {
+      width: 52%;
+     }
+
+     .twenty {
+      width: 15%;
+     }
+
+     .wider {
+      width: 52%;
+     }
+
+     .mtnumber{
+      text-decoration: underline;
+     }
+     
+     .descOne {
+      line-height: 1.5;
+      word-spacing: 0.1em;
+     }
